@@ -19,7 +19,7 @@ const UserSchema = new Schema({
         type: String,
         required: true
     },
-    name: {
+    date: {
         type: Date,
         default: Date.now
     },
