@@ -1,14 +1,12 @@
 import React from "react";
-import loading from "./loading.gif";
+import Loading from "react-loading";
 
-export default () => {
-  return (
+const Spinner = ({ type, color }) => (
+  <div className="align-self-center">
     <div>
-      <img
-        src={loading}
-        style={{ width: "200px", margin: "auto", display: "block" }}
-        alt="Loading..."
-      ></img>
+      <Loading type={"spin"} color={"#"} height={"10%"} width={"10%"} />
     </div>
-  );
-};
+  </div>
+);
+
+export default Spinner;
