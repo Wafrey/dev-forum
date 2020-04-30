@@ -11,9 +11,12 @@ control via JWT, the token is stored in local storage. The forum is using by def
 * Express
 * MongoDB
 * React
+* React Router
 * Redux
-* Bootstrap
-* JSON Web Token 
+* Styled with Bootstrap
+* JTW for Authentication
+* Github API
+* Gravatar
 
 ![Home Page](https://imgur.com/OJCmjuX)
 
