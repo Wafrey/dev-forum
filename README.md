@@ -18,8 +18,6 @@ control via JWT, the token is stored in local storage. The forum is using by def
 * Github API
 * Gravatar
 
-![Home Page](https://imgur.com/OJCmjuX)
-
 ## Contact
 
 Georgi Dimitrov - [https://www.linkedin.com/in/wafrey/](https://www.linkedin.com/in/wafrey/w) - g.dimitrovtech@gmail.com
